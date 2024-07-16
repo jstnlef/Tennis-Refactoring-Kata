@@ -1,4 +1,4 @@
-module Tests
+module TennisTests
 
 open System
 open Xunit
